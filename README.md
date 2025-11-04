@@ -1,9 +1,9 @@
 # Advanced Image Synthesis - Repository
-This is the solutions exercices to the course Advanced Image Synthesis.
+This is repository contains the solutions to exercices to the course Advanced Image Synthesis Labs.
 
-This repository has three main branches
-- Main (Original Practical Laps)
+This repository has three main branches:
+- Main (Original Practical Labs)
 - Solution (Solutions to labs with comments)
-- Woking (Where all the deep thinking take places)
+- Working (Where all the deep thinking take places)
 
-Feel free to clone the solution branch to explore the solutions and approaches 
+Feel free to clone the solution branch to explore the solutions and approaches.
