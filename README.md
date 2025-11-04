@@ -1,2 +1,9 @@
 # Advanced Image Synthesis - Repository
-This is the repository to the course Advanced Image Synthesis. For the corresponding exercises, please visit the moodle webpage of the University of Duisburg-Essen.
+This is the solutions exercices to the course Advanced Image Synthesis.
+
+This repository has three main branches
+- Main (Original Practical Laps)
+- Solution (Solutions to labs with comments)
+- Woking (Where all the deep thinking take places)
+
+Feel free to clone the solution branch to explore the solutions and approaches 
